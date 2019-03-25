@@ -80,6 +80,7 @@ img, video, audio {
 /*///// LAYOUT /////*/
 
 * {
+  
   box-sizing: border-box;
 }
 
